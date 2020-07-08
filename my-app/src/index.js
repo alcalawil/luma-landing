@@ -8,7 +8,7 @@ import './fonts/Dubiel.ttf';
 import './fonts/InaiMathi-MN.ttc';
 import { BrowserRouter } from 'react-router-dom'
 
-
+//cache update
 ReactDOM.render(
   <BrowserRouter>
         <App />
