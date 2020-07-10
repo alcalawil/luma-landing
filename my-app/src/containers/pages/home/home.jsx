@@ -90,7 +90,7 @@ function Home() {
             <Col sm={12} md={1} >
             </Col>
             <Col sm={12} md={6} className="margin-title">
-              <h1 className="title-first-container">Plataforma de comercio electrónico para empresas de consumo masivo en Venezuela</h1>
+              <h1 className="title-first-container">Plataforma de  comercio electrónico para empresas de consumo masivo en Venezuela</h1>
               <h5 className="subtitle-first-container"> Empieza a vender online recibiendo pagos en divisa extranjera
               </h5>
             </Col>
