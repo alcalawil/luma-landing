@@ -91,7 +91,7 @@ function Home() {
             </Col>
             <Col sm={12} md={6} className="margin-title">
               <h1 className="title-first-container">Plataforma de  comercio electrónico para empresas de consumo masivo en Venezuela</h1>
-              <h5 className="subtitle-first-container"> Empieza a vender online recibiendo pagos en divisa extranjera
+              <h5 className="subtitle-first-container"> Empieza a vender online recibiendo pagos en divisa extranjera.
               </h5>
             </Col>
             <Col sm={12} md={5} className="pic-first-margin">
@@ -182,8 +182,22 @@ function Home() {
             </Col>
             <Col md={2}>  </Col>
         </div>
+        {/* <div className="div-container picC" style={{background:'black'}}>
+          <div style={{padding:'100px',color:'white'}}> 
+            <h1 className="picC-title"> Ahora es posible vender online en Venezuela </h1>
+            </div>
+            <Col md={2}>  </Col>
+            <Col md={8}>
+              <h5 className="picC-subtitle" style={{color:'white'}}> 
+              Agrega un producto a tu stock y al mínuto tus clientes podran comprarlo desde la comodidad de sus casas.
+
+              </h5>
+            
+            </Col>
+            <Col md={2}>  </Col>
+        </div> */}
         <div className="div-container-card">
-            <Col sm={12} lg={6}>
+            <Col sm={12} lg={6} style={{paddingLeft:'0px',paddingRight:'0px',padding:'0px 20px 0px 20px'}}>
               <div className="background-grey">
               <p className="logos-p amazon-p" style={{fontSize:'40px',padding:'0px'}}>Nuestra plataforma a la vanguardia  de las mejores empresas del mundo</p>
                 <a> <p className="read-more"> Leer más</p> </a>
@@ -197,7 +211,7 @@ function Home() {
                 </div>
               </div>
             </Col>
-            <Col sm={12} lg={6} >
+            <Col sm={12} lg={6} style={{paddingLeft:'0px',paddingRight:'0px',padding:'0px 20px 0px 20px'}} >
               <div className="background-orange">
               <p className="business-p"> Marketing Digital</p>
                 <a > <p className="read-more"> Leer más</p> </a>
@@ -208,7 +222,7 @@ function Home() {
             </Col>
         </div>
         <div className="div-container-card" style={{marginBottom:'20px'}}>
-            <Col sm={12} lg={6} style={{padding:'17px'}} >
+            <Col sm={12} lg={6} style={{paddingLeft:'0px',paddingRight:'0px',padding:'20px 20px 0px 20px'}} >
               <div className="background-black">
               <p className="business-p padding-business-intelligence" > Business Intelligence</p>
                 <a > <p className="read-more"> Leer más</p> </a>
@@ -218,7 +232,7 @@ function Home() {
                
               </div>
             </Col>
-            <Col sm={12} lg={6} style={{padding:'17px'}}>
+            <Col sm={12} lg={6} style={{paddingLeft:'0px',paddingRight:'0px',padding:'20px 20px 0px 20px'}}>
               <div className="background-grey grey-container">
               <p className="logos-p amazon-p" > Tú comercio en la nube de Amazon</p>
                 <a> <p className="read-more"> Leer más</p> </a>
@@ -247,7 +261,7 @@ function Home() {
             <p style={{textAlign:'center',cursor:'pointer',
             fontSize:'20px',color:'black',fontWeight:'400'}}> Venezuela +58 424-5189469</p>
             <p style={{textAlign:'center',cursor:'pointer',
-            fontSize:'20px',color:'black',fontWeight:'400'}}> Chile +56 958765629</p>
+            fontSize:'20px',color:'black',fontWeight:'400'}}> Chile +56 968170453</p>
             </div>
             </Col>
             <Col sm={12} lg={4}>
