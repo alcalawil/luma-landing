@@ -90,8 +90,8 @@ function Home() {
             <Col sm={12} md={1} >
             </Col>
             <Col sm={12} md={6} className="margin-title">
-              <h1 className="title-first-container">Plataforma Ecommerce </h1>
-              <h5 className="subtitle-first-container"> Empieza a vender online y empieza a competir en la era digital.
+              <h1 className="title-first-container">Digitaliza tu empresa con la plataforma de Ecommerce Lumarketo  </h1>
+              <h5 className="subtitle-first-container"> Empieza a vender online tus productos y servicios para entrar al comercio digital.
               </h5>
             </Col>
             <Col sm={12} md={5} className="pic-first-margin">
